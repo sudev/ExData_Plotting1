@@ -1,3 +1,11 @@
+## Note : 
+# I'm downloading dataset and subseting the dataset using script getdata.R. It uses a cache machanism to store and retrive the required data as a R object. 
+# To generate plot(n).png source the plot(n).R files in your working directory.
+```r
+# In your working directory
+source('plot(n).R') ## The getdata.R is sourced within plot(n).R file.
+```
+
 ## Introduction
 
 This assignment uses data from
