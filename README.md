@@ -1,5 +1,5 @@
 ## Note : 
-I'm downloading dataset and subseting the dataset using script getdata.R. It uses a cache machanism to store and retrive the required data as a R object.         
+I'm downloading and subseting the dataset using script getdata.R. It uses a cache machanism to store and retrive the required data using R object file.         
  
 To generate plot1.png source the plot1.R file in your working directory.    
 
